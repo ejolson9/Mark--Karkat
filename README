@@ -1,3 +1,7 @@
+Fork created to add own customizations to Mark--Karkat.
+Differences:
+- will only make marks in the current window, instead of all windws
+
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=2666
 
 DESCRIPTION
